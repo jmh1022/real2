@@ -1,0 +1,32 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input[type="date"] {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.meal-box {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
